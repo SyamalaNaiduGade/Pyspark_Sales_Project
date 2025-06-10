@@ -44,8 +44,8 @@ Partitioning and storage optimization
 # How to Run:
 Clone the repo
 
-Load datasets in PySpark environment
+Load datasets in PySpark environment (I.e Databricks)
 
-Execute the data processing notebook/script
+Execute the data processing notebook/script (in Databricks)
 
 Results include cleaned data, analytical summaries, and partitioned output datasets
